@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+h4 {
+	color: white; margin-right: 550px;
+}
+
+.container {
+	min-height: 500px;
+}
+
+h3 {
+	margin-top: 30px; font-family: cursive; color: blue;
+}
+
+table {
+	border: black;
+}
+
+#footer {
+	height: 60px; text-align: center;
+}
+
+h5 {
+	color: white;
+}
